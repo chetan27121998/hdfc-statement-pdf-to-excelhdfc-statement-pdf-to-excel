@@ -1,2 +1,4 @@
 # hdfc-statement-pdf-to-excelhdfc-statement-pdf-to-excel
 Automated Python pipeline to extract transaction tables from HDFC Bank and HDFC Credit Card PDF statements into clean, standardized Excel workbooks using PyPDF2, pdfplumber, and pandas
+
+#### This project provides an automated document extraction pipeline designed to parse unstructured HDFC Bank Account and HDFC Credit Card PDF statements into structured Excel spreadsheets. Financial statements in PDF format often contain repeating page headers, branch metadata, disclaimers, and multi-line transaction descriptions that complicate direct analysis. This repository isolates the core transaction tables, cleanses the financial values, and maps both bank and credit card records into a unified 10-column schema ready for accounting, expense tracking, or business intelligence workflows.
