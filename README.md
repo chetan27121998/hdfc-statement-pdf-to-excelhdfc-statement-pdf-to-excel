@@ -3,7 +3,8 @@ Extract transaction records from supported HDFC Bank account statements and HDFC
 
 The project focuses on transaction data: dates, descriptions, debits, credits, and other fields available in each supported layout. It does not attempt to reproduce an entire statement in Excel. Some credit card workflows also create statement summaries or include selected metadata.
 
-<img width="2000" height="2000" alt="627bad6e8d659819b1108502" src="https://github.com/user-attachments/assets/89a1b7eb-42bd-45aa-9109-70eaed6d824c" />
+<img width="2000" height="1125" alt="627bada78d659819b1108504" src="https://github.com/user-attachments/assets/b3b682b4-b90c-4f9c-8bb3-8b1b761e0273" />
+
 
 #### HDFC Statement PDF to Excel Extractor is a Python project that converts transaction data from supported HDFC Bank account statements and HDFC credit card statement PDFs into structured Excel workbooks. It reduces the need to manually copy transaction rows from PDFs and prepares the extracted data for filtering, reconciliation, expense analysis, and reporting.
 
